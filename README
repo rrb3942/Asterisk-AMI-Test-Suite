@@ -1,0 +1,10 @@
+Asterisk::AMI Test Suite
+=============================
+
+This is a test suite (or the beginnings of one) for the Asterisk::AMI 
+perl module.
+
+It consequently acts as a decent test suite for the asterisk manager between
+versions.
+
+This may eventually get rolled into the Asterisk::AMI project entirely.
